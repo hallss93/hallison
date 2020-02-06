@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import App from './App.vue'
-import './assets/js/jquery.js'
 
 Vue.config.productionTip = false
 
